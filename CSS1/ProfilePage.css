@@ -1,0 +1,13 @@
+body{
+    max-height: max-content;
+    max-width: fit-content;
+    background: url("../images1/WayToLife.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+#address{
+    color:#413f3f;
+}
